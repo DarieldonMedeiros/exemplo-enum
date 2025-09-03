@@ -107,7 +107,6 @@ Este projeto é ideal para:
 
 - Estudantes aprendendo Java
 - Desenvolvedores que querem entender enums
-- Projetos que precisam trabalhar com dados geográficos do Brasil
 - Exemplos de boas práticas em orientação a objetos
 
 ## 📄 Licença
